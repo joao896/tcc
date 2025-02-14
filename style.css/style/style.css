@@ -21,7 +21,7 @@ justify-content: center;
 
 img{
 height: 30em;
-padding-right: 1000px;
+padding-right: 700px;
 
 
 
@@ -31,28 +31,28 @@ padding-right: 1000px;
 color: brown;
 font-size: 35px;
 text-decoration: none;
-padding-right: 50px;
+padding-right: 100px;
 
 }
 .sidebar{
-position: fixed;
-top: 0;
-display: flex;
-flex-direction: column;
-
-
+    position: fixed;
+    top: 0;
+    display: flex;
+    flex-direction: column;
+    
+    
 }
 .sidebar button{
-height: 60px;
-background: transparent;
-border: 0;
-font-size: 25px;
-color: brown;
-cursor: pointer;
-text-align: left;
-padding: 0;
-
-}
+    height: 60px;
+    background: transparent;
+    border: 0;
+    font-size: 25px;
+    color: brown;
+    cursor: pointer;
+    text-align: left;
+    padding: 0;
+    
+    }
 
 .siderbar button > span {
 display: inline-flex;
